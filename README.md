@@ -68,7 +68,9 @@ Current Progress
 ![WhatsApp Image 2026-02-12 at 17 15 31](https://github.com/user-attachments/assets/e686414c-16fa-4e4d-9b6f-e7184eb4803a)
 ![WhatsApp Image 2026-02-12 at 17 15 31(1)](https://github.com/user-attachments/assets/ed1cff3f-2dcc-4574-b1f0-9fe7250ed177)
 ![WhatsApp Image 2026-02-12 at 17 15 31(2)](https://github.com/user-attachments/assets/992bd5b9-64fa-42c9-af0c-6a049ae869f3)
+
 https://github.com/user-attachments/assets/821f7f82-84ae-4eef-a39b-6aa71b6eeaf1
+
 https://github.com/user-attachments/assets/6ae09161-71f6-4c4d-ad17-69a6cb7988ec
 
 initial prototyping phase 

@@ -42,7 +42,3 @@ Maintain a stable and level camera orientation regardless of motion.
 
 **Goal:**  
 Continuously adjust camera orientation to keep the detected face at the center.
-
----
-
-## System Architecture
